@@ -1,1 +1,6 @@
-# Global_and_Local_Variability_2023
+# Variability of human T-cell receptor repertoires  during thymic development across cell types and individuals
+
+Repository associated with the paper "Variability of human T-cell receptor repertoires  during thymic development across cell types and individuals".
+In order to reproduce the plot, run the corresponding Jupyter Notebooks.
+
+For reference, we share all the generation and selection models, which can be found in the corresponding folders.
