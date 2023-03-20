@@ -1,0 +1,61 @@
+,pearson,estimator,cell_type,type
+0,0.6009971911525633,$ P_{\rm gen} (V_x)$,CD8+,all
+1,0.6857900210105919,$ P_{\rm gen} (V_x)$,CD8+,all
+2,0.6238989078928587,$ P_{\rm gen} (V_x)$,CD8+,all
+3,0.5404893590195282,$ P_{\rm gen} (V_x)$,CD8+,all
+4,0.5695862889468486,$ P_{\rm gen} (V_x)$,CD8+,all
+5,0.5654908239342736,$ P_{\rm gen} (V_x)$,CD8+,all
+6,0.6219514994885414,$ P_{\rm gen} (V_x)$,CD8+,all
+7,0.5809166955377113,$ P_{\rm gen} (V_x)$,CD8+,all
+8,0.6150030833815462,$ P_{\rm gen} (V_x)$,CD8+,all
+9,0.5717140204389604,$ P_{\rm gen} (V_x)$,CD8+,all
+10,0.6999079866604921,$ P^{\rm lin}_{\rm post} (V_x)$,CD8+,all
+11,0.66796911483339,$ P^{\rm lin}_{\rm post} (V_x)$,CD8+,all
+12,0.6756115636644561,$ P^{\rm lin}_{\rm post} (V_x)$,CD8+,all
+13,0.6029631455447473,$ P^{\rm lin}_{\rm post} (V_x)$,CD8+,all
+14,0.651787141430663,$ P^{\rm lin}_{\rm post} (V_x)$,CD8+,all
+15,0.5816517986266009,$ P^{\rm lin}_{\rm post} (V_x)$,CD8+,all
+16,0.6711514250390396,$ P^{\rm lin}_{\rm post} (V_x)$,CD8+,all
+17,0.6365235078073536,$ P^{\rm lin}_{\rm post} (V_x)$,CD8+,all
+18,0.6738574386662177,$ P^{\rm lin}_{\rm post} (V_x)$,CD8+,all
+19,0.6042898272324945,$ P^{\rm lin}_{\rm post} (V_x)$,CD8+,all
+20,0.7976691272024999,$ P^{\rm deep}_{\rm post}(V_x)$,CD8+,all
+21,0.7718636399073961,$ P^{\rm deep}_{\rm post}(V_x)$,CD8+,all
+22,0.7680443953681035,$ P^{\rm deep}_{\rm post}(V_x)$,CD8+,all
+23,0.7435607490328928,$ P^{\rm deep}_{\rm post}(V_x)$,CD8+,all
+24,0.7144222269803694,$ P^{\rm deep}_{\rm post}(V_x)$,CD8+,all
+25,0.701745523539555,$ P^{\rm deep}_{\rm post}(V_x)$,CD8+,all
+26,0.7490941864926692,$ P^{\rm deep}_{\rm post}(V_x)$,CD8+,all
+27,0.783052364351529,$ P^{\rm deep}_{\rm post}(V_x)$,CD8+,all
+28,0.7767665991922171,$ P^{\rm deep}_{\rm post}(V_x)$,CD8+,all
+29,0.7270147272053783,$ P^{\rm deep}_{\rm post}(V_x)$,CD8+,all
+0,0.5833789532648224,$ P_{\rm gen}(x) $,CD8+,center
+1,0.6201271473930421,$ P_{\rm gen}(x) $,CD8+,center
+2,0.583084044170005,$ P_{\rm gen}(x) $,CD8+,center
+3,0.54474997247774,$ P_{\rm gen}(x) $,CD8+,center
+4,0.5657099423033709,$ P_{\rm gen}(x) $,CD8+,center
+5,0.5252579460947541,$ P_{\rm gen}(x) $,CD8+,center
+6,0.5703814178495159,$ P_{\rm gen}(x) $,CD8+,center
+7,0.5468801007346633,$ P_{\rm gen}(x) $,CD8+,center
+8,0.5635102886972819,$ P_{\rm gen}(x) $,CD8+,center
+9,0.498126048712417,$ P_{\rm gen}(x) $,CD8+,center
+10,0.6538215166774747,$ P^{\rm lin}_{\rm post}(x) $,CD8+,center
+11,0.6147040270453535,$ P^{\rm lin}_{\rm post}(x) $,CD8+,center
+12,0.6267277463287237,$ P^{\rm lin}_{\rm post}(x) $,CD8+,center
+13,0.5628820480649418,$ P^{\rm lin}_{\rm post}(x) $,CD8+,center
+14,0.6211515725889553,$ P^{\rm lin}_{\rm post}(x) $,CD8+,center
+15,0.5487172560537737,$ P^{\rm lin}_{\rm post}(x) $,CD8+,center
+16,0.6160765781003066,$ P^{\rm lin}_{\rm post}(x) $,CD8+,center
+17,0.5924828531712006,$ P^{\rm lin}_{\rm post}(x) $,CD8+,center
+18,0.5954842536135362,$ P^{\rm lin}_{\rm post}(x) $,CD8+,center
+19,0.5228885993505282,$ P^{\rm lin}_{\rm post}(x) $,CD8+,center
+20,0.7401846653413096,$ P^{\rm deep}_{\rm post}(x) $,CD8+,center
+21,0.7126125318998335,$ P^{\rm deep}_{\rm post}(x) $,CD8+,center
+22,0.6861651024071116,$ P^{\rm deep}_{\rm post}(x) $,CD8+,center
+23,0.6716808241343245,$ P^{\rm deep}_{\rm post}(x) $,CD8+,center
+24,0.6597476214105698,$ P^{\rm deep}_{\rm post}(x) $,CD8+,center
+25,0.6687729073530939,$ P^{\rm deep}_{\rm post}(x) $,CD8+,center
+26,0.669508299983273,$ P^{\rm deep}_{\rm post}(x) $,CD8+,center
+27,0.7145568854870488,$ P^{\rm deep}_{\rm post}(x) $,CD8+,center
+28,0.6927910863153232,$ P^{\rm deep}_{\rm post}(x) $,CD8+,center
+29,0.6155487299661367,$ P^{\rm deep}_{\rm post}(x) $,CD8+,center

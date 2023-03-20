@@ -1,0 +1,61 @@
+,pearson,estimator,cell_type,type
+0,0.4766307594447582,$ P_{\rm gen} (V_x)$,Treg,all
+1,0.38141479247135357,$ P_{\rm gen} (V_x)$,Treg,all
+2,0.6377957881643823,$ P_{\rm gen} (V_x)$,Treg,all
+3,0.4552023195567067,$ P_{\rm gen} (V_x)$,Treg,all
+4,0.5088048878437638,$ P_{\rm gen} (V_x)$,Treg,all
+5,0.34738031784874174,$ P_{\rm gen} (V_x)$,Treg,all
+6,0.4713210688831113,$ P_{\rm gen} (V_x)$,Treg,all
+7,0.6375607748222953,$ P_{\rm gen} (V_x)$,Treg,all
+8,0.46615304440307653,$ P_{\rm gen} (V_x)$,Treg,all
+9,0.33224777242660947,$ P_{\rm gen} (V_x)$,Treg,all
+10,0.5241835860537014,$ P^{\rm lin}_{\rm post} (V_x)$,Treg,all
+11,0.3695875060581141,$ P^{\rm lin}_{\rm post} (V_x)$,Treg,all
+12,0.66950788050346,$ P^{\rm lin}_{\rm post} (V_x)$,Treg,all
+13,0.4849486135662148,$ P^{\rm lin}_{\rm post} (V_x)$,Treg,all
+14,0.5931201220285797,$ P^{\rm lin}_{\rm post} (V_x)$,Treg,all
+15,0.31398187077450357,$ P^{\rm lin}_{\rm post} (V_x)$,Treg,all
+16,0.40753530143328326,$ P^{\rm lin}_{\rm post} (V_x)$,Treg,all
+17,0.5749648203756925,$ P^{\rm lin}_{\rm post} (V_x)$,Treg,all
+18,0.5370738959511498,$ P^{\rm lin}_{\rm post} (V_x)$,Treg,all
+19,0.1796297659874057,$ P^{\rm lin}_{\rm post} (V_x)$,Treg,all
+20,0.5124929961349673,$ P^{\rm deep}_{\rm post}(V_x)$,Treg,all
+21,0.4818434053656847,$ P^{\rm deep}_{\rm post}(V_x)$,Treg,all
+22,0.6709919439380474,$ P^{\rm deep}_{\rm post}(V_x)$,Treg,all
+23,0.5279758294173589,$ P^{\rm deep}_{\rm post}(V_x)$,Treg,all
+24,0.7149464464248314,$ P^{\rm deep}_{\rm post}(V_x)$,Treg,all
+25,0.4785562094462806,$ P^{\rm deep}_{\rm post}(V_x)$,Treg,all
+26,0.6850804108806591,$ P^{\rm deep}_{\rm post}(V_x)$,Treg,all
+27,0.81761016796911,$ P^{\rm deep}_{\rm post}(V_x)$,Treg,all
+28,0.6016055959893346,$ P^{\rm deep}_{\rm post}(V_x)$,Treg,all
+29,0.3355655551752878,$ P^{\rm deep}_{\rm post}(V_x)$,Treg,all
+0,0.5700098664646822,$ P_{\rm gen}(x) $,Treg,center
+1,0.31583595362302186,$ P_{\rm gen}(x) $,Treg,center
+2,0.608973714092659,$ P_{\rm gen}(x) $,Treg,center
+3,0.4191613977886321,$ P_{\rm gen}(x) $,Treg,center
+4,0.4259042113960513,$ P_{\rm gen}(x) $,Treg,center
+5,0.35486880370085194,$ P_{\rm gen}(x) $,Treg,center
+6,0.5212795252876418,$ P_{\rm gen}(x) $,Treg,center
+7,0.5289816946006375,$ P_{\rm gen}(x) $,Treg,center
+8,0.445787756234922,$ P_{\rm gen}(x) $,Treg,center
+9,0.28385822403550837,$ P_{\rm gen}(x) $,Treg,center
+10,0.5745654522159326,$ P^{\rm lin}_{\rm post}(x) $,Treg,center
+11,0.2800137408174549,$ P^{\rm lin}_{\rm post}(x) $,Treg,center
+12,0.6315861543196614,$ P^{\rm lin}_{\rm post}(x) $,Treg,center
+13,0.4262080385980006,$ P^{\rm lin}_{\rm post}(x) $,Treg,center
+14,0.47597618059908137,$ P^{\rm lin}_{\rm post}(x) $,Treg,center
+15,0.3281345595130148,$ P^{\rm lin}_{\rm post}(x) $,Treg,center
+16,0.4798438889521235,$ P^{\rm lin}_{\rm post}(x) $,Treg,center
+17,0.48899065702905065,$ P^{\rm lin}_{\rm post}(x) $,Treg,center
+18,0.4750722491193487,$ P^{\rm lin}_{\rm post}(x) $,Treg,center
+19,0.16510664150262508,$ P^{\rm lin}_{\rm post}(x) $,Treg,center
+20,0.5411994268962717,$ P^{\rm deep}_{\rm post}(x) $,Treg,center
+21,0.33213645833027167,$ P^{\rm deep}_{\rm post}(x) $,Treg,center
+22,0.6168106104753045,$ P^{\rm deep}_{\rm post}(x) $,Treg,center
+23,0.4133588279521956,$ P^{\rm deep}_{\rm post}(x) $,Treg,center
+24,0.5811779362818419,$ P^{\rm deep}_{\rm post}(x) $,Treg,center
+25,0.3973368612250609,$ P^{\rm deep}_{\rm post}(x) $,Treg,center
+26,0.6589914624027414,$ P^{\rm deep}_{\rm post}(x) $,Treg,center
+27,0.6496818498173935,$ P^{\rm deep}_{\rm post}(x) $,Treg,center
+28,0.5445995079979085,$ P^{\rm deep}_{\rm post}(x) $,Treg,center
+29,0.2896799937643213,$ P^{\rm deep}_{\rm post}(x) $,Treg,center
