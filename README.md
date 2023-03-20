@@ -4,4 +4,4 @@ Repository associated with the paper "Variability of human T-cell receptor reper
 
 In order to reproduce the plot, run the corresponding Jupyter Notebooks.
 
-For reference, we share all the generation and selection models, which can be found in the corresponding folders.
+The generation and selection models used in the variability analysis can be found in the corresponding folders.
