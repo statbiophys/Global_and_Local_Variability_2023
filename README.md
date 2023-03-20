@@ -6,6 +6,10 @@ In order to reproduce the plot, run the corresponding Jupyter Notebooks.
 
 The generation and selection models used in the variability analysis can be found in the corresponding folders.
 
+# Reference
+
+Isacchini et al., Variability of human T-cell receptor repertoires  during thymic development across cell types and individuals
+
 # Requirements
 
 In order to run the Jupyter Notebooks only basic python libraries are needed (Numpy, Scipy, Pandas, Matplotlib, Seaborn, scikit-learn)
